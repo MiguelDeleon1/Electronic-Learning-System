@@ -5,7 +5,16 @@ My 18-week project. An ASP.NET MVC Core Web Application for MSSA.
 
 
 
-Electronic Learning System
+Miguel Deleon
+MSSA CAD
+24 January 2020
+
+________________________________________
+Project Step 2
+Project Selection
+________________________________________
+
+# Electronic Learning System
 
 As new Service members join the ranks in the military they are asked to progress in their professional education. There are many programs available that cater to the individual’s growth with academics, but none provide an individual career learning path. 
 
