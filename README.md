@@ -3,7 +3,7 @@
 
 
 
-<p align="center"> Miguel Deleon <br /> </p>
+<p align="end"> Miguel Deleon <br /> </p>
 MSSA CAD <br />
 24 January 2021
 
