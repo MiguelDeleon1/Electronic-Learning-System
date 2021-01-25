@@ -9,10 +9,8 @@ Miguel Deleon
 MSSA CAD
 24 January 2020
 
-________________________________________
 Project Step 2
 Project Selection
-________________________________________
 
 # Electronic Learning System
 
