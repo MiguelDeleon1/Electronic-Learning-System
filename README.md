@@ -40,6 +40,15 @@ Only Site Managers will be allowed administrator role.
 This will allow proper maintenance on the website and to provide support to Users.
 The data capture by this system will only store the basic user information and courses completed.
 
+My program looks like this:
+
+~~~cs
+public static void Main(string[] args)
+{
+    Console.WriteLine("Hello World");
+}
+~~~
+
 **Reference:** https://jko.jten.mil.
 ![C# Logo](https://i.pinimg.com/736x/e8/46/0f/e8460f0d8b9df01e9460bfd1ade0e8c8.jpg)
 [GitHub](http://github.com)
