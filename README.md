@@ -40,6 +40,7 @@ Only Site Managers will be allowed administrator role.
 This will allow proper maintenance on the website and to provide support to Users.
 The data capture by this system will only store the basic user information and courses completed.
 
+My program containts a `Main()` method.
 My program looks like this:
 
 ~~~cs
