@@ -3,9 +3,9 @@
 
 
 
-<p align="end"> Miguel Deleon </p>
-<p align="end"> MSSA CAD </p>
-<p align="end"> 24 January 2021 </p>
+<p align="end"> Miguel Deleon
+MSSA CAD
+24 January 2021 </p>
 
 Project Step 2
 Project Selection
