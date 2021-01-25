@@ -14,8 +14,8 @@ Project Selection
 
 # Electronic Learning System
 
-As new Service members join the ranks in the military they are asked to progress in their professional education. 
-There are many programs available that cater to the individual’s growth with academics, but none provide an individual career learning path. 
+> As new Service members join the ranks in the military they are asked to progress in their professional education. 
+> There are many programs available that cater to the individual’s growth with academics, but none provide an individual career learning path. 
 
 One of the areas that is encouraged to improve is with correspondence courses, in other words distance learning, with a variety of subjects. 
 Most service members are not aware that the capabilities of the learning programs that are provide, which makes it harder for them to pinpoint subjects that will directly benefit their growth. 
