@@ -32,4 +32,4 @@ Users capabilities will be to access and sort through courses that have video ca
 Only Site Managers will be allowed administrator role. This will allow proper maintenance on the website and to provide support to Users.
 The data capture by this system will only store the basic user information and courses completed.
 
-Reference: https://jko.jten.mil. 
+**Reference:** https://jko.jten.mil. 
