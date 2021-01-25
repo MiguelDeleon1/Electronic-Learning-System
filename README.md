@@ -19,12 +19,12 @@ One of the areas that is encouraged to improve is with correspondence courses, i
 Electronic Learning System (ELS) will give Service members the ability to locate courses that are unique with their profession. While still having valuable resources that may interest them.
 
 The required information to register is below. 
-•	First and Last name
-•	Career Field/Occupation
-•	Employee ID/Department of Defense ID
-•	Work/Personal e-mail
-•	Current Rank/Title
-•	Username/password
++ •	First and Last name
++ •	Career Field/Occupation
++ •	Employee ID/Department of Defense ID
++ •	Work/Personal e-mail
++ •	Current Rank/Title
++ •	Username/password
 
 Once the account has been activated, they will be able to view courses that either directly relate to their Career Field/Occupation or the civilian version, if available. 
 Users capabilities will be to access and sort through courses that have video capability. Their accomplishments will be available with printable certifications. Users are limited to registration, course selection/dropping, and maintaining their profile.
