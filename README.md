@@ -39,3 +39,5 @@ This will allow proper maintenance on the website and to provide support to User
 The data capture by this system will only store the basic user information and courses completed.
 
 **Reference:** https://jko.jten.mil
+
+.[Database Diagram] (Electronic Learning System Diagram.pdf)
