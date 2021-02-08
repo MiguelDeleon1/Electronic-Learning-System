@@ -40,4 +40,4 @@ The data capture by this system will only store the basic user information and c
 
 **Reference:** https://jko.jten.mil
 
-[Database Diagram](ElectronicLearningSystemDiagram.pdf)
+[Database Diagram](Electronic%20Learning%20System%20Diagram.pdf)
